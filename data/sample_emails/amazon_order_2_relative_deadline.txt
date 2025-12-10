@@ -1,0 +1,28 @@
+From: order-update@amazon.com
+To: you@example.com
+Subject: Your Amazon.com order #112-4455667-9876543
+Date: Sat, 30 Nov 2025 14:42:01 -0800
+
+Hi Soumili,
+
+We have received your order #112-4455667-9876543.
+
+Order date: November 30, 2025
+
+Items:
+1) Dyson Supersonic Hair Dryer
+   Price: $429.99
+   Quantity: 1
+
+Order total: $429.99
+
+Estimated delivery date: December 4, 2025
+
+Returns and Refunds:
+Most new and unused items can be returned within 30 days of delivery for a full refund.
+Some items may have different return policies. Please review the Returns Center for details.
+
+To manage or cancel your order, go to Your Orders.
+
+Best regards,
+Amazon.com

@@ -1,0 +1,19 @@
+From: shipment-tracking@amazon.com
+To: you@example.com
+Subject: Your Amazon.com order #113-9988776-1234567 has shipped
+Date: Sun, 30 Nov 2025 08:03:10 -0800
+
+Hello Soumili,
+
+Good news! The items in your order #113-9988776-1234567 have shipped.
+
+Items in this shipment:
+1) Nike Women's Running Shoes, Size 7
+2) Anker USB-C Charger 30W
+
+Estimated delivery date: December 2, 2025
+
+You can track your shipment from Your Orders.
+
+Thanks for shopping with us.
+Amazon.com

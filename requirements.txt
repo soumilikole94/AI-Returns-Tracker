@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+httpx
+loguru
+
+openai   # or google-generativeai if you prefer Google's models
+
+chromadb
+
+streamlit
+
+pytest
