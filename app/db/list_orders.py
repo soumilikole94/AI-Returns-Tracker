@@ -27,6 +27,7 @@ def main():
             print(f"Order total: {o.order_total}")
             print(f"Explicit return deadline: {o.explicit_return_deadline}")
             print(f"Relative return policy text: {o.relative_return_policy_text}")
+            print(f"Final return deadline: {o.final_return_deadline} (source={o.return_deadline_source})")
             print("Items:")
             for it in o.items:
                 print(f"  - {it.name} | price={it.price} | qty={it.quantity}")
